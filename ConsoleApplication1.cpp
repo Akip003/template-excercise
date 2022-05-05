@@ -1,7 +1,6 @@
 
 #include <iostream>
 #include <algorithm>
-#include "Header.h"
 #include "stos.cpp"
 #include "sort.cpp"
 using namespace std;
